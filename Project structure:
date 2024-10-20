@@ -1,0 +1,13 @@
+reunion-frontend/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── Dashboard.js
+│   │   ├── EventDetails.js
+│   │   ├── Profile.js
+│   │   └── Chat.js
+│   ├── services/
+│   │   └── api.js
+│   ├── App.js
+│   └── index.js
+└── package.json
