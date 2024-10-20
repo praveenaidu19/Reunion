@@ -1,0 +1,4 @@
+mkdir reunion-backend
+cd reunion-backend
+npm init -y
+npm install express mongoose cors jwt-simple bcryptjs socket.io
